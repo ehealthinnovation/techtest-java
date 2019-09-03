@@ -3,7 +3,7 @@ Java based technical test for full stack and backend applicants
 ## Introduction:
 First off, thanks for taking the time to apply to our organization. We really appreciate the interest, and we know your time is valuable. We hope that this test will allow you to express how you write your code and help us get a better idea of who you are through it.
 
-##The Assignment:
+## The Assignment:
 
 #### We have created a refactoring exercise for you to complete. All code, structure and files are fair game for you to modify, the only restriction is that the output for any given input must not change. The goal is to have expandable, maintainable and easily readable code.
 
