@@ -5,7 +5,7 @@ First off, thanks for taking the time to apply to our organization. We really ap
 
 ##The Assignment:
 
-#### We have created a refactoring exercise for you to complete. All code, structure and files are fair game for you to update, the only restriction is that the behaviour must not change. The goal is to have expandable, maintainable and easily readable code.
+#### We have created a refactoring exercise for you to complete. All code, structure and files are fair game for you to modify, the only restriction is that the output for any given input must not change. The goal is to have expandable, maintainable and easily readable code.
 
 The scenario is that this is Shopping Drug Market's code for receipt printing. You've been hired to potentially make some updates to their code, they're not yet sure what changes will be coming but at the least they will start to stock more medication types and begin to have more flexible deals on their products.
 
@@ -25,6 +25,6 @@ Customer, which has a name and a list of prescriptions. Customer also prints a r
 * When a customer buys more than 200 units of painkillers, they get a 50% discount off the standard price
 * Any purchase receives 100 Optimal points, but buying decongestants gets a bonus 200 Optimal points
 
-You are encouraged to use the included tests to observe how the current code runs before making major changes. Keep in mind the potential expansions that Shopping Drug Market has planned when you are coding. Good luck!
+You are encouraged to use the included tests to observe how the current code runs before making major changes. Keep in mind the potential expansions that Shopping Drug Market has planned when you are coding. Again, we are looking for clear,  readable, maintainable code. Good luck!
 
 This project makes use of maven to pull the required testing libraries and assumes a java version of 11.
