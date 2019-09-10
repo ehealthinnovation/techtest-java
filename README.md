@@ -9,6 +9,8 @@ First off, thanks for taking the time to apply to our organization. We really ap
 
 The scenario is that this is Shopping Drug Market's code for receipt printing. You've been hired to potentially make some updates to their code, they're not yet sure what changes will be coming but at the least they will start to stock more medication types and begin to have more flexible deals on their products.
 
+Note that we're not looking for the most efficient code in this assignment. A very good answer can be crafted without much knowledge beyond class hierarchies, for loops and test assertions. If you have not used Java in some time, you may want to brush up on how to use the testing and assertion libraries(JUnit and Hamcrest), but otherwise no language-specific features are expected.
+
 #### The code is split into three main classes:
 
 Medication, which has a name and type of a stocked medication.
